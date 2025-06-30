@@ -1,2 +1,8 @@
-# Gestor-de-Datos-Operativos
-manejo de grandes volúmenes de información es frecuente y la automatización representa una ventaja competitiva tanto en términos de calidad como de tiempo. 
+# Data Toolkit - Segment & File Processor
+
+Aplicación de escritorio desarrollada en Python con interfaz gráfica para automatizar dos procesos clave:
+
+- Generación de listas de revocación de segmentos (Revoke Segment).
+- División de archivos CSV grandes en partes más pequeñas.
+
+Tecnologías: Python, Tkinter, Pandas, PyInstaller
